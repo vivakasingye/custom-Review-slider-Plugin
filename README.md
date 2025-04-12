@@ -1,7 +1,5 @@
 # Custom Review Slider WordPress Plugin
 
-![Plugin Banner](assets/banner-772x250.png)
-
 A flexible review/testimonial display system with carousel and grid layouts.
 
 ## Features
