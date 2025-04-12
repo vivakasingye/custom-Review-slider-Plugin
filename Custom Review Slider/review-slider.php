@@ -4,8 +4,10 @@
  * Description: Display testimonials in slider or grid format with categories. Shortcodes: [reviews_carousel] and [reviews_grid]
  * Version: 1.0
  * Author: KASINGYE VIVA
+ * Author URI: x.com/vivakasingye1
+ * License: GPL2
+ * Text Domain: custom-review-slider
  */
-
 
 // 1. Register Custom Post Type and Taxonomy
 function create_review_post_type() {
